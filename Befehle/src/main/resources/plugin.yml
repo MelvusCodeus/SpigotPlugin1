@@ -1,0 +1,15 @@
+name: Befehle
+version: '${project.version}'
+main: melvus.codeus.befehle.Befehle
+api-version: 1.19
+authors: [ MelvusCodeus ]
+description: Neue/Alte Befehle
+commands:
+  gm:
+  mastersword:
+    aliases: [ms]
+  Banhammer:
+    aliases: [bh]
+
+
+
